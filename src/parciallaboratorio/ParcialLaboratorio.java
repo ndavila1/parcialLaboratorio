@@ -17,6 +17,8 @@ public class ParcialLaboratorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        // parte de nicolas
         int a, b, c;
         a = Integer.parseInt(JOptionPane.showInputDialog("ingrese un numero"));
         b = Integer.parseInt(JOptionPane.showInputDialog("ingrese un numero"));
